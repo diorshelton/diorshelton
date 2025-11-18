@@ -5,7 +5,7 @@
 
 ## 🧭 About Me  
 I’m a software engineer with a passion for building scalable, responsive, and user-focused web experiences.  
-My background blends **backend architecture in Go** with **frontend craftsmanship in React and TypeScript** — bridging performance and usability.
+My background blends backend architecture in Go with frontend craftsmanship in React and TypeScript — bridging performance and usability.
 
 I’ve worked in both product and support engineering roles, collaborating with designers, stakeholders, and developers to deliver reliable, maintainable systems that perform at scale.
 
