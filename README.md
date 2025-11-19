@@ -27,7 +27,7 @@ I’ve worked in both product and support engineering roles, collaborating with 
 
 ## 🔭 I’m currently working on Golden Market
 
- [Golden Market API](https://github.com/diorshelton/golden-market) 
+ [Golden Market](https://github.com/diorshelton/golden-market) 
  
   A Go-based API simulating a digital farmer’s market with vendors, products, users, and transactions.  
 - Modular Go architecture (`cmd`, `internal`, `handlers`, `repository`, `middleware`).  
