@@ -29,7 +29,7 @@ I’ve worked in both product and support engineering roles, collaborating with 
 
  [Golden Market](https://github.com/diorshelton/golden-market) 
  
-  A Go-based API simulating a digital farmer’s market with vendors, products, users, and transactions.  
+  A Go-based API simulating a fantasy RPG market  
 - Modular Go architecture (`cmd`, `internal`, `handlers`, `repository`, `middleware`).  
 - Implements JWT authentication, rate-limiting, and Swagger documentation.  
 - Built for scalability and serves as the foundation for a full-stack market simulation.  
