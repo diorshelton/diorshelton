@@ -10,7 +10,7 @@ My background blends backend architecture in Go with frontend craftsmanship in R
 I’ve worked in both product and support engineering roles, collaborating with designers, stakeholders, and developers to deliver reliable, maintainable systems that perform at scale.
 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun facts: I enjoy hiking and geography
+- ⚡ Fun facts: I enjoy hiking, linguistics, and  geography
 - 👯 I’m interested in: civic tech, software performance, design
 - 💬 Ask me about: linguistics, coffee, anime, electric vehicles
 
