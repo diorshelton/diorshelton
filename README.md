@@ -3,29 +3,29 @@
 
 ---
 
-## 🧭 About Me  
+## About Me  
 I’m a software engineer with a passion for building scalable, responsive, and user-focused web experiences.  
 My background blends backend architecture in Go with frontend craftsmanship in React and TypeScript — bridging performance and usability.
 
 I’ve worked in both product and support engineering roles, collaborating with designers, stakeholders, and developers to deliver reliable, maintainable systems that perform at scale.
 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun facts: I enjoy hiking, linguistics, and  geography
-- 👯 I’m interested in: civic tech, software performance, design
-- 💬 Ask me about: linguistics, coffee, anime, electric vehicles
+- Pronouns: he/him/his
+- Fun facts: I enjoy hiking, linguistics, and  geography
+- I’m interested in: civic tech, software performance, design
+- Ask me about: anime, calligraphy, stationary
 
 ---
 
-## 🧰 Core Skills
+## Core Skills
 **Languages:** Go, JavaScript, TypeScript, HTML5, CSS3  
 **Frameworks & Tools:** React, Node.js, Tailwind, Express, Vite, Astro, Gatsby, Styled-Components  
 **Databases:** PostgreSQL, MongoDB  
-**Other:** Git, GitHub, Docker (familiar), Trello, Figma, Makefile automation  
+**Tookls:** Git, GitHub, Docker (familiar), Trello, Figma, Makefile automation  
 **Specialties:** REST API design, authentication, UI component systems, performance optimization, documentation
 
 ---
 
-## 🔭 I’m currently working on Golden Market
+## I’m currently working on Golden Market
 
  [Golden Market](https://github.com/diorshelton/golden-market) 
  
