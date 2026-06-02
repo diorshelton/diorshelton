@@ -1,40 +1,38 @@
-# Hi, I’m Dior
-**Software Engineer | Go, React & Node.js Developer**
+# Dior Shelton
+**Software Engineer — Go, React & TypeScript**
 
 ---
 
-## About Me  
-I’m a software engineer with a passion for building scalable, responsive, and user-focused web experiences.  
-My background blends backend architecture in Go with frontend craftsmanship in React and TypeScript — bridging performance and usability.
+## About
 
-I’ve worked in both product and support engineering roles, collaborating with designers, stakeholders, and developers to deliver reliable, maintainable systems that perform at scale.
-
-- Pronouns: he/him/his
-- Fun facts: I enjoy hiking, linguistics, and  geography
-- I’m interested in: civic tech, software performance, design
-- Ask me about: anime, calligraphy, stationary
+Software engineer working across the full stack — Go on the backend, React and TypeScript on the front. I care about systems that are fast, maintainable, and genuinely usable. I've shipped in both product and support engineering contexts, working alongside designers and stakeholders to get things production-ready.
 
 ---
 
-## Core Skills
-**Languages:** Go, JavaScript, TypeScript, HTML5, CSS3  
-**Frameworks & Tools:** React, Node.js, Tailwind, Express, Vite, Astro, Gatsby, Styled-Components  
-**Databases:** PostgreSQL, MongoDB  
-**Tookls:** Git, GitHub, Docker (familiar), Trello, Figma, Makefile automation  
+## Skills
+
+**Languages:** Go, JavaScript, TypeScript, HTML5, CSS3
+**Frameworks & Tools:** React, Node.js, Tailwind, Express, Vite, Astro, Gatsby, Styled Components
+**Databases:** PostgreSQL, MongoDB
+**Tooling:** Git, GitHub, Docker, Trello, Figma, Makefile automation
 **Specialties:** REST API design, authentication, UI component systems, performance optimization, documentation
 
 ---
 
-## I’m currently working on Golden Market
+## Currently building
 
- [Golden Market](https://github.com/diorshelton/golden-market) 
- 
-  A Go-based API simulating a fantasy RPG market  
-- Modular Go architecture (`cmd`, `internal`, `handlers`, `repository`, `middleware`).  
-- Implements JWT authentication, rate-limiting, and Swagger documentation.  
-- Built for scalability and serves as the foundation for a full-stack market simulation.  
+**[Golden Market](https://github.com/diorshelton/golden-market)**
+A Go API for a fantasy RPG economy. Structured around a clean `cmd/internal/repository` split with JWT auth, rate-limiting middleware, and Swagger docs. The goal is a solid enough foundation to eventually layer a full frontend simulation on top.
 
+go-go
+A raw HTTP/1.1 server written in Go — no net/http, no external dependencies, stdlib only. Built around a fixed worker pool, keep-alive connections, and an RWMutex-backed in-memory KV cache. An exercise in understanding what the standard library abstracts away.
 ---
+
+## Outside of code
+
+I read about linguistics and geography, collect good pens, and watch too much anime. Interested in civic tech and where thoughtful software design intersects with public infrastructure.
+
+- **Pronouns:** he/him/his
 
 ## 🌐 Connect with Me  
 - **LinkedIn:** [linkedin.com/in/diorshelton](https://www.linkedin.com/in/diorshelton)  
