@@ -24,7 +24,7 @@ Software engineer working across the full stack — Go on the backend, React and
 **[Golden Market](https://github.com/diorshelton/golden-market)**
 A Go API for a fantasy RPG economy. Structured around a clean `cmd/internal/repository` split with JWT auth, rate-limiting middleware, and Swagger docs. The goal is a solid enough foundation to eventually layer a full frontend simulation on top.
 
-go-go
+**go-go**
 A raw HTTP/1.1 server written in Go — no net/http, no external dependencies, stdlib only. Built around a fixed worker pool, keep-alive connections, and an RWMutex-backed in-memory KV cache. An exercise in understanding what the standard library abstracts away.
 ---
 
